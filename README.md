@@ -6,3 +6,4 @@ omar@gmail.com ; password : 123456
 
 This project was for React learning purposes. The frontEnd side was not well made (I didn't intend to do my best in it) , but the website if functionnal and ready to be tested.
 Have a great day!!!!! 
+Link to live version deployed on firebase : https://netflix-clone-89097.web.app/
